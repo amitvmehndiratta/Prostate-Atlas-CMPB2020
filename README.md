@@ -20,5 +20,5 @@ Copyright: These atlases can be used only for research purposes. Authors are not
 
 For any detailed enquiry, please contact
 Dr Amit Mehndiratta, Indian Institute of Technology Delhi, India
-Email: amit.mehndiratta@keble.oxon.org
+  Email: amit.mehndiratta@keble.oxon.org
 
