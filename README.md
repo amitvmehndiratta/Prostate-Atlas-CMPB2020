@@ -1,7 +1,6 @@
 # Prostate-Zones-Peripheral-Zone-and-Transition-Zone-Atlas
 
-General Info
-In this project, a probabilistic atlas-based approach has been developed for prostate zonal segmentation using diffusion-weighted imaging (DWI). This repository contains the compressed NIfTI files (.nii.gz) of prostate and it’s both zones, peripheral zone (PZ) and transition zone (TZ) atlas. MRI data were processed using in-house developed routines in MATLAB® (MathWorks Inc., v2018, Natick, MA). 
+General Info: In this project, a probabilistic atlas-based approach has been developed for prostate zonal segmentation using diffusion-weighted imaging (DWI). This repository contains the compressed NIfTI files (.nii.gz) of prostate and it’s both zones, peripheral zone (PZ) and transition zone (TZ) atlas. MRI data were processed using in-house developed routines in MATLAB® (MathWorks Inc., v2018, Natick, MA). 
 
 Only the mid-gland region of the prostate was used for atlas. This includes, for each subject, approximately five slices, starting from the base where the bladder starts to disappear till the prostate apex. 
 
