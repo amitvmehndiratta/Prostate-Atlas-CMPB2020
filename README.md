@@ -16,9 +16,9 @@ Use of these atlas and method must be cited with the details as:
 Singh, D; Kumar, V; Das, C.J; Singh, A; Mehndiratta, A; “Segmentation of prostate zones using probabilistic atlas-based method with diffusion-weighted MR images”, Computer Methods and Programs in Biomedicine (2020), pp.1-10, DOI:10.1016/j.cmpb.2020.105572.
 https://doi.org/10.1016/j.cmpb.2020.105572
 
-Copyright: These atlases can be used only for research purposes. Authors are not liable for any clinical use of it, authors could not held be responsible.  
-
+ 
 For any detailed enquiry, please contact
 Dr Amit Mehndiratta, Indian Institute of Technology Delhi, India
   Email: amit.mehndiratta@keble.oxon.org
 
+Disclaimer: These atlases can be used only for research purposes. Authors are not liable for any clinical use of it, authors could not held be responsible.
